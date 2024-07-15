@@ -1,1 +1,1 @@
-Teste de branch protection v2 - aprovação habilitada
+Teste de branch protection v2b - com pull request template
